@@ -1,0 +1,14 @@
+C:\Users\Илья\source\repos\TwentyFourthTask\TwentyFourthTask\bin\Debug\netcoreapp3.1\TwentyFourthTask.exe
+C:\Users\Илья\source\repos\TwentyFourthTask\TwentyFourthTask\bin\Debug\netcoreapp3.1\TwentyFourthTask.deps.json
+C:\Users\Илья\source\repos\TwentyFourthTask\TwentyFourthTask\bin\Debug\netcoreapp3.1\TwentyFourthTask.runtimeconfig.json
+C:\Users\Илья\source\repos\TwentyFourthTask\TwentyFourthTask\bin\Debug\netcoreapp3.1\TwentyFourthTask.runtimeconfig.dev.json
+C:\Users\Илья\source\repos\TwentyFourthTask\TwentyFourthTask\bin\Debug\netcoreapp3.1\TwentyFourthTask.dll
+C:\Users\Илья\source\repos\TwentyFourthTask\TwentyFourthTask\bin\Debug\netcoreapp3.1\TwentyFourthTask.pdb
+C:\Users\Илья\source\repos\TwentyFourthTask\TwentyFourthTask\obj\Debug\netcoreapp3.1\TwentyFourthTask.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\TwentyFourthTask\TwentyFourthTask\obj\Debug\netcoreapp3.1\TwentyFourthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\source\repos\TwentyFourthTask\TwentyFourthTask\obj\Debug\netcoreapp3.1\TwentyFourthTask.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\TwentyFourthTask\TwentyFourthTask\obj\Debug\netcoreapp3.1\TwentyFourthTask.AssemblyInfo.cs
+C:\Users\Илья\source\repos\TwentyFourthTask\TwentyFourthTask\obj\Debug\netcoreapp3.1\TwentyFourthTask.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\TwentyFourthTask\TwentyFourthTask\obj\Debug\netcoreapp3.1\TwentyFourthTask.dll
+C:\Users\Илья\source\repos\TwentyFourthTask\TwentyFourthTask\obj\Debug\netcoreapp3.1\TwentyFourthTask.pdb
+C:\Users\Илья\source\repos\TwentyFourthTask\TwentyFourthTask\obj\Debug\netcoreapp3.1\TwentyFourthTask.genruntimeconfig.cache
